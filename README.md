@@ -19,5 +19,5 @@
 
 🌟 Let's Connect
   
-•  LinkedIn: 
-•  Email: your-email@example.com
+•  LinkedIn: https://www.linkedin.com/in/vysakh-venugopal-20693b294/
+•  Email: vysakhvenugopal.mec@gmail.com
