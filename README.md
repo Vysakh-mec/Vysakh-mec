@@ -13,10 +13,6 @@
  - Frontend: React, Redux, React Native, Expo.
  - Backend: Firebase, MongoDB (learning).
 
-## 📂 Current Projects
- - 📸 Photogram: Instagram-like app built with Expo and Firebase.
- - 🎥 YouTube Clone: Developed using React, Vite.js, and Firebase.
-
 ## 🌟 Let's Connect
   
 -  LinkedIn: https://www.linkedin.com/in/vysakh-venugopal-20693b294/
